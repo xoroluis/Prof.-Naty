@@ -8,7 +8,7 @@
   "server": {
     "ip": "Testsrv.aternos.me:12087",
     "port": 12087,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
